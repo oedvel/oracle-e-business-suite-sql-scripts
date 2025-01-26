@@ -1,0 +1,19 @@
+/*
+File Name: sa-value-sets.sql
+Version: Oracle Release 12 / R12
+Author: JPXWB
+URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
+
+Queries:
+
+See these headings:
+
+-- VALUE SETS - SIMPLE LIST OF VALUE SETS
+-- VALUE SETS - DEFINITION
+-- VALUE SETS - BASIC LIST OF VALUES
+-- VALUE SETS - COUNT PER VALUE SET
+-- VALUE SETS - TABLE VALIDATION DETAILS
+
+In this file: sa-flexfields-validation.sql
+
+*/
