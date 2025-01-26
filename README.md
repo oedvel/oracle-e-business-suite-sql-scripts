@@ -39,8 +39,9 @@ If you have any problems with this repository, [please log an issue](https://git
 
 ## Contents
 
-+---ap (Accounts Payable)
-|
+
+```
++---ap
 |       ap-checks-all.sql
 |       ap-expenses.sql
 |       ap-invoices-holds.sql
@@ -61,8 +62,7 @@ If you have any problems with this repository, [please log an issue](https://git
 |       ap-trial-balance.sql
 |       ap_accounting_entries_11i.sql
 |       
-+---ar (Accounts Receivable)
-|
++---ar
 |       ar-applications.sql
 |       ar-bank-account-owners.sql
 |       ar-batch-sources.sql
@@ -84,14 +84,12 @@ If you have any problems with this repository, [please log an issue](https://git
 |       ar-transactions.sql
 |       ar-trx-bal-summary.sql
 |       
-+---ce (Cash Management)
-|
++---ce
 |       ce-internal-bank-accounts.sql
 |       ce-reversed-transactions-matched-to-bank-accounts.sql
 |       ce-statements.sql
 |       
-+---dba (DBA)
-|
++---dba
 |       db-details.sql
 |       dba-check-ota-running.sql
 |       dba-file-versions.sql
@@ -111,13 +109,11 @@ If you have any problems with this repository, [please log an issue](https://git
 |       dba-tablespace.sql
 |       dba.sql
 |       
-+---fa (Fixed Assets)
-|
++---fa
 |       fa-assets.sql
 |       fa-mass-additions.sql
 |       
-+---gl (General Ledger)
-|
++---gl
 |       gl-application-accounting-definitions.sql
 |       gl-balances.sql
 |       gl-chart-of-accounts.sql
@@ -139,8 +135,7 @@ If you have any problems with this repository, [please log an issue](https://git
 |       gl-web-adi.sql
 |       gl-xla-accounting-data.sql
 |       
-+---hr (HR)
-|
++---hr
 |       hr-addresses.sql
 |       hr-business-groups.sql
 |       hr-hr-records.sql
@@ -149,8 +144,7 @@ If you have any problems with this repository, [please log an issue](https://git
 |       hr-organizations.sql
 |       hr-position-hierarchy.sql
 |       
-+---iex (Advanced Collections)
-|
++---iex
 |       iex-admin.sql
 |       iex-collectors.sql
 |       iex-customers.sql
@@ -161,8 +155,7 @@ If you have any problems with this repository, [please log an issue](https://git
 |       iex-tasks.sql
 |       iex-work-items-strategies.sql
 |       
-+---inv (Inventory)
-|
++---inv
 |       inv-accounting-periods.sql
 |       inv-assignment-sets.sql
 |       inv-errored-transactions.sql
@@ -175,8 +168,7 @@ If you have any problems with this repository, [please log an issue](https://git
 |       inv-transactions.sql
 |       inv-units-of-measure.sql
 |       
-+---pa (Projects)
-|
++---pa
 |       pa-agreements.sql
 |       pa-asset-info.sql
 |       pa-auto-accounting-lookups.sql
@@ -209,8 +201,7 @@ If you have any problems with this repository, [please log an issue](https://git
 |       pa-transaction-sources.sql
 |       pa-transactions-interface.sql
 |       
-+---po (Purchasing)
-|
++---po
 |       po-approval-groups.sql
 |       po-approval-history.sql
 |       po-approval-workflow-errors.sql
@@ -244,8 +235,7 @@ If you have any problems with this repository, [please log an issue](https://git
 |       po-xml-po-errors.sql
 |       pos-supplier-registrations.sql
 |       
-+---sa (SysAdmin)
-|
++---sa
 |       sa-alerts.sql
 |       sa-ame.sql
 |       sa-api-resp-add-end-date.sql
@@ -301,12 +291,10 @@ If you have any problems with this repository, [please log an issue](https://git
 |       sa-workflows-errors.sql
 |       sa-workflows.sql
 |       
-+---xdo (XML Publisher)
-|
++---xdo
 |       xdo-templates.sql
 |       
-+---xla (Subledger Accounting)
-|
++---xla
 |       01-xla-transaction-entities.sql
 |       02-xla-ae-headers.sql
 |       03-xla-events.sql
@@ -316,12 +304,11 @@ If you have any problems with this repository, [please log an issue](https://git
 |       xla-entity-id-mappings.sql
 |       xla-linked-to-sub-ledger-transactions.sql
 |       
-+---zx (Tax)
-|
++---zx
 |       zx-customer-and-supplier-tax-registrations.sq.sql
 |       zx.sql
 |       
-\---_misc (Miscellaneous)
-|
-		misc-count-volumes-group-by-rollup.sql
-		misc-volumes.sql
+\---_misc
+        misc-count-volumes-group-by-rollup.sql
+        misc-volumes.sql
+```
