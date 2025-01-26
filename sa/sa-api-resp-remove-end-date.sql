@@ -1,7 +1,7 @@
 /*
 File Name: sa-api-resp-remove-end-date.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 
 API that can be used to remove end-dates from responsibilities assigned to users returned by "user_cur" cursor

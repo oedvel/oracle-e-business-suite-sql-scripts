@@ -1,7 +1,7 @@
 /*
 File Name: sa-api-user-reset-pwd.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 
 API that can be used to reset passwords for user accounts included in the "usercur" cursor

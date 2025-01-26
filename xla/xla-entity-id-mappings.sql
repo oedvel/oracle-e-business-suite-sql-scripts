@@ -1,7 +1,7 @@
 /*
 File Name: xla-entity-id-mappings.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 
 Why is the XLA_ENTITY_ID_MAPPINGS table useful?

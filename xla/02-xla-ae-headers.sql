@@ -1,7 +1,7 @@
 /*
 File Name: 02-xla-ae-headers.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 
 XLA_AE_HEADERS

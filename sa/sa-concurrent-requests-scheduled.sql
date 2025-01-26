@@ -1,7 +1,7 @@
 /*
 File Name: sa-concurrent-requests-scheduled.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 
 This script was useful when I worked at an organisation where we were upgrading from 11i to R12

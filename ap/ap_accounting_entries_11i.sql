@@ -1,7 +1,7 @@
 /*
 File Name: ap_accounting_entries_11i.sql
 Version: Oracle Version 11i
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 
 Queries:

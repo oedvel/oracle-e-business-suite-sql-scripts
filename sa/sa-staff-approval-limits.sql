@@ -1,7 +1,7 @@
 /*
 File Name: sa-staff-approval-limits.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 -- STANDARD APPROVAL LIMITS
 -- COUNT OF VALUES PER JOB TITLE

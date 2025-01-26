@@ -1,7 +1,7 @@
 /*
 File Name: zx-customer-and-supplier-tax-registrations.sq.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 HTTPS://SHARINGORACLE.BLOGSPOT.COM/2018/01/SUPPLIER-CUSTOMER-TAX-PROFILES.HTML
 

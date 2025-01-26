@@ -1,7 +1,7 @@
 /*
 File Name: po-get-active-encumbrance.sql
 Version: Oracle Release 12 / R12
-Author: JPXWB
+Author: Oedvel
 URL: https://github.com/oedvel/oracle-e-business-suite-sql-scripts
 
 11I/12: INCORRECT ENCUMBERED AMOUNT / ACTIVE ENCUMBRANCE /ENCUMBRANCE DETAIL REPORT FOR PURCHASE ORDER - TROUBLESHOOTING (DOC ID 742621.1)
